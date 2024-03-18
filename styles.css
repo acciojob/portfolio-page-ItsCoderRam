@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+@import url('https://fonts.googleapis.com/css2?family=Benne&family=Inter:wght@400;700&family=Lexend+Deca&family=Madimi+One&display=swap');
+img{
+	width:200px;
+	height:180px;
+	border-radius:50%;
+	box-shadow: -1px -1px 10px skyblue;
+	margin-left:35%;
+	margin-top:20px;
+	padding:2px;
+	text-align:center;
+	justify-content:center;
+	align-items:center
+}
+#name{
+	text-align:center;
+	color:#c22d81;
+	font-family: "Benne", serif;
+}
+#skills{
+	text-align:center;
+	
+}
+#social{
+	margin-left:300px
+}
+#projects{
+	align-content:center
+}
+
+
+
